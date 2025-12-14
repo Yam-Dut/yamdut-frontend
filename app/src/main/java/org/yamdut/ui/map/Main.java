@@ -1,4 +1,4 @@
-package com.yamdut.frontend;
+package org.yamdut.ui.map;
 
 public class Main {
     public static void main(String[] args) {
