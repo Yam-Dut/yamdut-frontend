@@ -1,7 +1,7 @@
 /*
  * The whole GUI starts from here
  */
-package org.example;
+package org.yamdut;
 
 public class App {
     public String getGreeting() {
